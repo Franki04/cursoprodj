@@ -1,3 +1,7 @@
 desde la pc local
 
+<<<<<<< HEAD
 mis cambios en el mismo archivo desde del local
+=======
+cambio que se esta realizando editando el mismo archivo
+>>>>>>> 92217d3c212cca37d0a379973910ef074baf5c68
